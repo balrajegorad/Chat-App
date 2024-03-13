@@ -1,5 +1,5 @@
 # Chat-App
-A Chatting app build on React with socket.io for real time chatting as MERN project. Login and sigup authenicate with bcrypt and json web token live socket single chat group chat sending notification , profile upload and awesome UI/UX storing the chat on mongoDB complete schema using Mongoose
+A Chatting app build on React with socket.io for real time chatting as MERN project. Login and sigup authenicate with bcrypt and json web token live socket single chat group chat sending notification , profile upload and awesome UI/UX storing the chat on mongoDB complete schema using Mongoose.
 
 # React, Node and Socket.io Chat App 
 - Using Socket.io to create real time messaging and notification system
